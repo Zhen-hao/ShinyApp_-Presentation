@@ -1,0 +1,17 @@
+base
+dplyr
+shiny
+googleVis
+shinyapps
+slidify
+MASS
+HistData
+lattice
+survival
+Formula
+ggplot2
+Hmisc
+UsingR
+knitr
+devtools
+slidifyLibraries
